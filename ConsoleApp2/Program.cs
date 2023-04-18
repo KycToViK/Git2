@@ -10,6 +10,9 @@ namespace ConsoleApp2
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Name = ");
+            Console.WriteLine("School = ");
+            Console.WriteLine("List = ");
         }
     }
 }
